@@ -1,0 +1,16 @@
+.navbar{
+	opacity:.75;
+}
+
+div {
+  color:white;
+}
+li#white{
+	color:#ffffff;
+}
+#shadowlight{
+	box-shadow: 3px 3px 3px 3px #888888;
+}
+#shadowlight:hover{
+	box-shadow: 10px 10px 5px 3px #888888;
+}
